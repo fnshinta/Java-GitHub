@@ -1,0 +1,13 @@
+NAMA            : MUHAMMAD UMAR HASAN
+GUGUS           : JAVA
+
+FIGMA           : Figma adalah aplikasi desain berbasis cloud untuk membuat sebuah 
+                prototipe antarmuka pengguna (UI) pada sebuah aplikasi atau situs web. 
+                Figma juga bisa melakukan kolaburasi real-time antar tim.
+
+Fungsi Figma    :
+                1. Desain UI dan menciptakan UX yang positif
+                2. Pembuatan prototipe
+                3. Kolaburasi dengan sesama tim
+                4. Penggunaan papan tulis daring (Figjam)
+                5. Akses berbasis cloud yang dapat diakses melalui web ataupun aplikasi
